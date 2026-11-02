@@ -1,0 +1,17 @@
+command_id: FC00.FE0076.220346|ta=76,c=17
+test_cases:
+- expected_values:
+    SKODA_STEER_ANGLE_V2: 0.9
+  response: 17FE0076056203460009
+- expected_values:
+    SKODA_STEER_ANGLE_V2: 1.2
+  response: 17FE007605620346000C
+- expected_values:
+    SKODA_STEER_ANGLE_V2: 3.7
+  response: 17FE0076056203460025
+- expected_values:
+    SKODA_STEER_ANGLE_V2: 6.2
+  response: 17FE007605620346003E
+- expected_values:
+    SKODA_STEER_ANGLE_V2: 8.4
+  response: 17FE0076056203460054

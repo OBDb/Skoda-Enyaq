@@ -1,0 +1,6 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    SKODA_AAT_CABIN: 10
+    SKODA_TRON_OUTSIDE_T_SYSTEM: 60
+  response: 7B00462260A78

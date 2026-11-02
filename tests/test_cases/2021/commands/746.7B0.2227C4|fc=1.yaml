@@ -1,0 +1,20 @@
+command_id: 746.7B0.2227C4|fc=1
+test_cases:
+- expected_values:
+    SKODA_HVAC_INSIDE_HUM: 79.5
+    SKODA_WNDSHLD_TEMP: 29.744
+  response: |-
+    7B010086227C477A041
+    7B0219C9FAAAAAAAAAA
+- expected_values:
+    SKODA_HVAC_INSIDE_HUM: 76
+    SKODA_WNDSHLD_TEMP: 30.32
+  response: |-
+    7B010086227C47820D1
+    7B021A498AAAAAAAAAA
+- expected_values:
+    SKODA_HVAC_INSIDE_HUM: 73.5
+    SKODA_WNDSHLD_TEMP: 30.896
+  response: |-
+    7B010086227C479A171
+    7B021AC93AAAAAAAAAA

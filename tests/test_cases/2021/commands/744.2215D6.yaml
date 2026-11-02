@@ -1,0 +1,6 @@
+command_id: 744.2215D6
+test_cases:
+- expected_values:
+    SKODA_CHG_EFFICIENCY: 75
+    SKODA_CHRGR_EFFICIENCY: 75
+  response: 7AE046215D600

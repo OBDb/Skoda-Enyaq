@@ -1,0 +1,8 @@
+command_id: FC00.FE00B9.22465B|ta=B9,c=17
+test_cases:
+- expected_values:
+    SKODA_DCDC_I_ALT: 35.6875
+  response: 17FE00B90562465B023B
+- expected_values:
+    SKODA_DCDC_I_ALT: 38.9375
+  response: 17FE00B90562465B026F

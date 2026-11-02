@@ -1,0 +1,26 @@
+command_id: 744.221DA7
+test_cases:
+- expected_values:
+    SKODA_CHG_OUT_V: 14
+    SKODA_OBC_HIGH_V_OUTPUT: 362.7
+  response: 7AE05621DA70E2B
+- expected_values:
+    SKODA_CHG_OUT_V: 14
+    SKODA_OBC_HIGH_V_OUTPUT: 362.9
+  response: 7AE05621DA70E2D
+- expected_values:
+    SKODA_CHG_OUT_V: 14
+    SKODA_OBC_HIGH_V_OUTPUT: 363
+  response: 7AE05621DA70E2E
+- expected_values:
+    SKODA_CHG_OUT_V: 14
+    SKODA_OBC_HIGH_V_OUTPUT: 363.1
+  response: 7AE05621DA70E2F
+- expected_values:
+    SKODA_CHG_OUT_V: 14
+    SKODA_OBC_HIGH_V_OUTPUT: 363.2
+  response: 7AE05621DA70E30
+- expected_values:
+    SKODA_CHG_OUT_V: 14
+    SKODA_OBC_HIGH_V_OUTPUT: 363.3
+  response: 7AE05621DA70E31

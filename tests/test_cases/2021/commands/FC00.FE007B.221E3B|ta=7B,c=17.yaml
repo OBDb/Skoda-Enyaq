@@ -1,0 +1,14 @@
+command_id: FC00.FE007B.221E3B|ta=7B,c=17
+test_cases:
+- expected_values:
+    SKODA_DC_BATTERY_V: 368
+  response: 17FE007B05621E3B05C0
+- expected_values:
+    SKODA_DC_BATTERY_V: 368.25
+  response: 17FE007B05621E3B05C1
+- expected_values:
+    SKODA_DC_BATTERY_V: 368.5
+  response: 17FE007B05621E3B05C2
+- expected_values:
+    SKODA_DC_BATTERY_V: 368.75
+  response: 17FE007B05621E3B05C3

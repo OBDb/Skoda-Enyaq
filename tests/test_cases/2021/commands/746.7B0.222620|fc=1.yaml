@@ -1,0 +1,5 @@
+command_id: 746.7B0.222620|fc=1
+test_cases:
+- expected_values:
+    SKODA_RECIRC_STOP_FRESH: 41
+  response: 7B0056226200029
