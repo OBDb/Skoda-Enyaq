@@ -1,0 +1,7 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    SKODA_CLIMATE_T_AFTER_EVAP: 0.33333
+    SKODA_HVAC_EVAP_T: 51
+    SKODA_PQ35_EVAP_OUT_T: 0.333
+  response: 7B00562261201FE

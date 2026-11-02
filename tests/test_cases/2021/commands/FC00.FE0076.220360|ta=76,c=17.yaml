@@ -1,0 +1,8 @@
+command_id: FC00.FE0076.220360|ta=76,c=17
+test_cases:
+- expected_values:
+    SKODA_HVAUX_I: 3.38
+  response: 17FE0076056203600152
+- expected_values:
+    SKODA_HVAUX_I: 6.22
+  response: 17FE007605620360026E

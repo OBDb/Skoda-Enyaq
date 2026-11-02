@@ -1,0 +1,20 @@
+command_id: 710.77A.222AB5|fc=1
+test_cases:
+- expected_values:
+    SKODA_E_TRON_RANGE_EST_CAN: 231
+    SKODA_RANGE_EST_CAN: 231
+  response: |-
+    77A100D622AB500E700
+    77A210000E700000000
+- expected_values:
+    SKODA_E_TRON_RANGE_EST_CAN: 232
+    SKODA_RANGE_EST_CAN: 232
+  response: |-
+    77A100D622AB500E800
+    77A210000E800000000
+- expected_values:
+    SKODA_E_TRON_RANGE_EST_CAN: 233
+    SKODA_RANGE_EST_CAN: 233
+  response: |-
+    77A100D622AB500E900
+    77A210000E900000000

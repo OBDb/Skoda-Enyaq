@@ -1,0 +1,9 @@
+command_id: 744.7AE.221507|fc=1,din=03
+test_cases:
+- expected_values:
+    SKODA_CHRGR_RAIL1_E: 4197.5
+    SKODA_CHRGR_RAIL2_E: 4199.5
+    SKODA_CHRGR_RAIL3_E: 4172.5
+  response: |-
+    7AE100C62150700A3F7
+    7AE2100A40B00A2FDCC

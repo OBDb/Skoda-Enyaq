@@ -1,0 +1,14 @@
+command_id: FC00.FE007B.221E1B|ta=7B,c=17
+test_cases:
+- expected_values:
+    SKODA_HVBAT_I_LIM_CHG: 347.4
+  response: 17FE007B05621E1B06C9
+- expected_values:
+    SKODA_HVBAT_I_LIM_CHG: 347.6
+  response: 17FE007B05621E1B06CA
+- expected_values:
+    SKODA_HVBAT_I_LIM_CHG: 348
+  response: 17FE007B05621E1B06CC
+- expected_values:
+    SKODA_HVBAT_I_LIM_CHG: 348.4
+  response: 17FE007B05621E1B06CE

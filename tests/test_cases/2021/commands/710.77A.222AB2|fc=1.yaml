@@ -1,0 +1,8 @@
+command_id: 710.77A.222AB2|fc=1
+test_cases:
+- expected_values:
+    SKODA_HVBAT_CAP: 73.64797
+    SKODA_HVBAT_CAP_24KWH: 73.65
+    SKODA_HVBAT_E_MAX: 73650
+    SKODA_HVBAT_E_MAX_RAW: 1473
+  response: 77A07622AB205C10400

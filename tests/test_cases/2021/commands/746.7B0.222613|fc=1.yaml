@@ -1,0 +1,14 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    SKODA_C7_CABIN_T: 1.15625
+    SKODA_CABIN_T_V2: 29.6
+  response: 7B0056226130128
+- expected_values:
+    SKODA_C7_CABIN_T: 1.17188
+    SKODA_CABIN_T_V2: 30
+  response: 7B005622613012C
+- expected_values:
+    SKODA_C7_CABIN_T: 1.22266
+    SKODA_CABIN_T_V2: 31.3
+  response: 7B0056226130139

@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.221E49|ta=7B,c=17
+test_cases:
+- expected_values:
+    SKODA_HVBAT_CELL_V_010: 3.837
+  response: 17FE007B05621E490B15
+- expected_values:
+    SKODA_HVBAT_CELL_V_010: 3.839
+  response: 17FE007B05621E490B17

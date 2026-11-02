@@ -1,0 +1,14 @@
+command_id: 746.7B0.222626|fc=1,din=03
+test_cases:
+- expected_values:
+    SKODA_CLIMATE_FR_R_T_FLP_ACT_VALUE: 81
+    SKODA_FRONT_RIGHT_T_FLAP_ACT: 81
+  response: 7B00662262600B2A2
+- expected_values:
+    SKODA_CLIMATE_FR_R_T_FLP_ACT_VALUE: 83.5
+    SKODA_FRONT_RIGHT_T_FLAP_ACT: 83.5
+  response: 7B00662262600B6A7
+- expected_values:
+    SKODA_CLIMATE_FR_R_T_FLP_ACT_VALUE: 85.5
+    SKODA_FRONT_RIGHT_T_FLAP_ACT: 85.5
+  response: 7B00662262600B9AB

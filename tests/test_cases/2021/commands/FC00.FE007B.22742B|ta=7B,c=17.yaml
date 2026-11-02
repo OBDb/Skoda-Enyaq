@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.22742B|ta=7B,c=17
+test_cases:
+- expected_values:
+    SKODA_HVBAT_MOD_T_23: 21.125
+  response: 17FE007B0562742B01E9
+- expected_values:
+    SKODA_HVBAT_MOD_T_23: 21.375
+  response: 17FE007B0562742B01EB

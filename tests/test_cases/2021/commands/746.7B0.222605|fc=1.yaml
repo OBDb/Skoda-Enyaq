@@ -1,0 +1,6 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    SKODA_CLIMATE_REFRIG_P: 4.8
+    SKODA_REFRIG_P: 4.8
+  response: 7B00462260518
