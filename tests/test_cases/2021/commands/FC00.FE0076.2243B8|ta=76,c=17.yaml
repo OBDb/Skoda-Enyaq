@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     SKODA_DCDC_T_COOL: 18.9
   response: 17FE0076056243B800BD
+- expected_values:
+    SKODA_DCDC_T_COOL: 22.8
+  response: 17FE0076056243B800E4

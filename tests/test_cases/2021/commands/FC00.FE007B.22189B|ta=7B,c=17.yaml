@@ -1,5 +1,8 @@
 command_id: FC00.FE007B.22189B|ta=7B,c=17
 test_cases:
 - expected_values:
+    SKODA_HVBAT_AFTER_CONTACTS_V: 355.5
+  response: 17FE007B0562189B0A97
+- expected_values:
     SKODA_HVBAT_AFTER_CONTACTS_V: 368
   response: 17FE007B0562189B0AB0

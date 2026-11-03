@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SKODA_CIRC_PUMP_FLOW: 0
   response: 17FE007B0462743B00
+- expected_values:
+    SKODA_CIRC_PUMP_FLOW: 100
+  response: 17FE007B0462743B0A

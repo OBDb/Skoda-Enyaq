@@ -1,6 +1,9 @@
 command_id: FC00.FE00B9.22465D|ta=B9,c=17
 test_cases:
 - expected_values:
+    SKODA_DC_DC_V: 15.16211
+  response: 17FE00B90562465D1E53
+- expected_values:
     SKODA_DC_DC_V: 15.21289
   response: 17FE00B90562465D1E6D
 - expected_values:

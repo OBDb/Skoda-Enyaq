@@ -2,6 +2,10 @@ command_id: FC00.FE007B.221E0E|ta=7B,c=17
 test_cases:
 - expected_values:
     SKODA_HVBAT_T_MAX_ID: 13
+    SKODA_HVBAT_T_MAX_V2: 13.75
+  response: 17FE007B07621E0E0370000D
+- expected_values:
+    SKODA_HVBAT_T_MAX_ID: 13
     SKODA_HVBAT_T_MAX_V2: 22.5
   response: 17FE007B07621E0E05A0000D
 - expected_values:

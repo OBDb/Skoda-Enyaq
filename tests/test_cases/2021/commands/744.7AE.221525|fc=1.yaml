@@ -1,6 +1,15 @@
 command_id: 744.7AE.221525|fc=1
 test_cases:
 - expected_values:
+    SKODA_OBC_V_PROX_A: 1938
+  response: 7AE056215250792
+- expected_values:
+    SKODA_OBC_V_PROX_A: 1945
+  response: 7AE056215250799
+- expected_values:
+    SKODA_OBC_V_PROX_A: 1952
+  response: 7AE0562152507A0
+- expected_values:
     SKODA_OBC_V_PROX_A: 4662
   response: 7AE056215251236
 - expected_values:
