@@ -36,3 +36,9 @@ test_cases:
   response: |-
     77A100D622AB4000000
     77A21E700000000003A
+- expected_values:
+    SKODA_HVBAT_CSMP_AVG_INT: 55
+    SKODA_RANGE_EST_INT: 379
+  response: |-
+    77A100D622AB4000001
+    77A217B000000000037
