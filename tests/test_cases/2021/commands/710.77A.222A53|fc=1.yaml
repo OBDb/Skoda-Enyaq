@@ -1,6 +1,27 @@
 command_id: 710.77A.222A53|fc=1
 test_cases:
 - expected_values:
+    SKODA_DCDC_I: 20
+    SKODA_DCDC_I_RSV: 225
+    SKODA_DCDC_V_LOW: 14.8
+  response: |-
+    77A1008622A53940213
+    77A2102E0AAAAAAAAAA
+- expected_values:
+    SKODA_DCDC_I: 22
+    SKODA_DCDC_I_RSV: 224
+    SKODA_DCDC_V_LOW: 14.8
+  response: |-
+    77A1008622A53940215
+    77A2102DFAAAAAAAAAA
+- expected_values:
+    SKODA_DCDC_I: 22
+    SKODA_DCDC_I_RSV: 225
+    SKODA_DCDC_V_LOW: 14.8
+  response: |-
+    77A1008622A53940215
+    77A2102E0AAAAAAAAAA
+- expected_values:
     SKODA_DCDC_I: 25
     SKODA_DCDC_I_RSV: 233
     SKODA_DCDC_V_LOW: 14.9

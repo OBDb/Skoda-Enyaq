@@ -1,6 +1,14 @@
 command_id: FC00.FE007B.221E0F|ta=7B,c=17
 test_cases:
 - expected_values:
+    SKODA_HVBAT_T_MIN: 12.125
+    SKODA_HVBAT_T_MIN_ID: 4
+  response: 17FE007B07621E0F03080004
+- expected_values:
+    SKODA_HVBAT_T_MIN: 12.25
+    SKODA_HVBAT_T_MIN_ID: 4
+  response: 17FE007B07621E0F03100004
+- expected_values:
     SKODA_HVBAT_T_MIN: 19.75
     SKODA_HVBAT_T_MIN_ID: 4
   response: 17FE007B07621E0F04F00004

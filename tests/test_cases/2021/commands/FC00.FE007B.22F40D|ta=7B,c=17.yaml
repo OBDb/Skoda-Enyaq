@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SKODA_VSS_V2: 0
   response: 17FE007B0462F40D00
+- expected_values:
+    SKODA_VSS_V2: 123
+  response: 17FE007B0462F40D7B

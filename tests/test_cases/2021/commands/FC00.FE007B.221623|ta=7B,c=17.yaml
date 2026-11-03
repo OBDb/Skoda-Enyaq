@@ -1,5 +1,8 @@
 command_id: FC00.FE007B.221623|ta=7B,c=17
 test_cases:
 - expected_values:
+    SKODA_HVBAT_PTC_T_1: 14
+  response: 17FE007B0462162340
+- expected_values:
     SKODA_HVBAT_PTC_T_1: 17
   response: 17FE007B0462162343

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SKODA_CHRGR_DUR_TOTAL: 75784
   response: 7AE076215EE00012808
+- expected_values:
+    SKODA_CHRGR_DUR_TOTAL: 75786
+  response: 7AE076215EE0001280A

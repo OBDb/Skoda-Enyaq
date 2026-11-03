@@ -10,3 +10,23 @@ test_cases:
   response: |-
     7AE1008621DDA460352
     7AE2103F9CCCCCCCCCC
+- expected_values:
+    SKODA_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA8E0352
+    7AE2103F7CCCCCCCCCC
+- expected_values:
+    SKODA_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA8E0352
+    7AE2103F8CCCCCCCCCC
+- expected_values:
+    SKODA_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA8E0352
+    7AE2103F9CCCCCCCCCC
+- expected_values:
+    SKODA_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA8E0352
+    7AE2103FACCCCCCCCCC

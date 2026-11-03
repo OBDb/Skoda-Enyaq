@@ -1,6 +1,10 @@
 command_id: FC00.FE007B.22028C|ta=7B,c=17
 test_cases:
 - expected_values:
+    SKODA_SOC: 44
+    SKODA_SOC_DISP: 42.38261
+  response: 17FE007B0462028C6E
+- expected_values:
     SKODA_SOC: 61.6
     SKODA_SOC_DISP: 61.89565
   response: 17FE007B0462028C9A
