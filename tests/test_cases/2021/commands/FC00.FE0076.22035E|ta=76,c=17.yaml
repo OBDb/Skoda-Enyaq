@@ -4,5 +4,8 @@ test_cases:
     SKODA_HVBAT_I_ENG: 28.6
   response: 17FE00760562035E011E
 - expected_values:
+    SKODA_HVBAT_I_ENG: -75.1
+  response: 17FE00760562035EFD11
+- expected_values:
     SKODA_HVBAT_I_ENG: -3.9
   response: 17FE00760562035EFFD9

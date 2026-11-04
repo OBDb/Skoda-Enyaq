@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     SKODA_DC_BATTERY_V: 368.75
   response: 17FE007B05621E3B05C3
+- expected_values:
+    SKODA_DC_BATTERY_V: 373.25
+  response: 17FE007B05621E3B05D5
+- expected_values:
+    SKODA_DC_BATTERY_V: 378.75
+  response: 17FE007B05621E3B05EB

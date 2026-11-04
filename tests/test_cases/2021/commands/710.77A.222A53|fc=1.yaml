@@ -56,3 +56,10 @@ test_cases:
   response: |-
     77A1008622A53950222
     77A2102E0AAAAAAAAAA
+- expected_values:
+    SKODA_DCDC_I: 30
+    SKODA_DCDC_I_RSV: 237
+    SKODA_DCDC_V_LOW: 15
+  response: |-
+    77A1008622A5396021D
+    77A2102ECAAAAAAAAAA
