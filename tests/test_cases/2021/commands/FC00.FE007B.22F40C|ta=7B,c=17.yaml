@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SKODA_ELDRIVE_MOTOR_RPM: 0
   response: 17FE007B0562F40C0000
+- expected_values:
+    SKODA_ELDRIVE_MOTOR_RPM: 831
+  response: 17FE007B0562F40C0CFC
+- expected_values:
+    SKODA_ELDRIVE_MOTOR_RPM: 11781
+  response: 17FE007B0562F40CB814

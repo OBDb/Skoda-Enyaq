@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     SKODA_DC_DC_V: 15.23438
   response: 17FE00B90562465D1E78
+- expected_values:
+    SKODA_DC_DC_V: 15.3418
+  response: 17FE00B90562465D1EAF
