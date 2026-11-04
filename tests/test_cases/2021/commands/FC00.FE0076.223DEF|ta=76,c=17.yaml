@@ -8,3 +8,7 @@ test_cases:
     SKODA_SOC_FC00: 64
     SKODA_SOC_V3: 64
   response: 17FE007605623DEF1900
+- expected_values:
+    SKODA_SOC_FC00: 95
+    SKODA_SOC_V3: 95
+  response: 17FE007605623DEF251C

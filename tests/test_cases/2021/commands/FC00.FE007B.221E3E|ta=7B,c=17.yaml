@@ -7,8 +7,8 @@ test_cases:
     SKODA_HVBAT_I_DC_2: -53.61
   response: 17FE007B07621E3E000234FF
 - expected_values:
-    SKODA_HVBAT_I_DC_2: 28.42
-  response: 17FE007B07621E3E0002550A
+    SKODA_HVBAT_I_DC_2: -28
+  response: 17FE007B07621E3E00023F00
 - expected_values:
     SKODA_HVBAT_I_DC_2: 177.18
   response: 17FE007B07621E3E00028F26

@@ -4,11 +4,8 @@ test_cases:
     SKODA_HVBAT_V_TRAC: 354.5
   response: 17FE0076056246750DD9
 - expected_values:
-    SKODA_HVBAT_V_TRAC: 355.3
-  response: 17FE0076056246750DE1
+    SKODA_HVBAT_V_TRAC: 383.8
+  response: 17FE0076056246750EFE
 - expected_values:
-    SKODA_HVBAT_V_TRAC: 355.5
-  response: 17FE0076056246750DE3
-- expected_values:
-    SKODA_HVBAT_V_TRAC: 368.3
-  response: 17FE0076056246750E63
+    SKODA_HVBAT_V_TRAC: 384
+  response: 17FE0076056246750F00
