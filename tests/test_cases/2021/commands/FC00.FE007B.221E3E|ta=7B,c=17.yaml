@@ -1,6 +1,12 @@
 command_id: FC00.FE007B.221E3E|ta=7B,c=17
 test_cases:
 - expected_values:
+    SKODA_HVBAT_I_DC_2: -341.06
+  response: 17FE007B07621E3E0001C4B6
+- expected_values:
+    SKODA_HVBAT_I_DC_2: -203.48
+  response: 17FE007B07621E3E0001FA74
+- expected_values:
     SKODA_HVBAT_I_DC_2: -189.08
   response: 17FE007B07621E3E00020014
 - expected_values:
@@ -9,6 +15,3 @@ test_cases:
 - expected_values:
     SKODA_HVBAT_I_DC_2: -28
   response: 17FE007B07621E3E00023F00
-- expected_values:
-    SKODA_HVBAT_I_DC_2: 177.18
-  response: 17FE007B07621E3E00028F26

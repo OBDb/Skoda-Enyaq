@@ -1,8 +1,8 @@
 command_id: FC00.FE0076.224675|ta=76,c=17
 test_cases:
 - expected_values:
-    SKODA_HVBAT_V_TRAC: 332.5
-  response: 17FE0076056246750CFD
+    SKODA_HVBAT_V_TRAC: 314
+  response: 17FE0076056246750C44
 - expected_values:
     SKODA_HVBAT_V_TRAC: 358.3
   response: 17FE0076056246750DFF
