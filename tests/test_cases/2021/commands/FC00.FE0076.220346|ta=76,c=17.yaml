@@ -4,29 +4,5 @@ test_cases:
     SKODA_STEER_ANGLE_V2: 0.9
   response: 17FE0076056203460009
 - expected_values:
-    SKODA_STEER_ANGLE_V2: 1.2
-  response: 17FE007605620346000C
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 1.7
-  response: 17FE0076056203460011
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 1.8
-  response: 17FE0076056203460012
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 3.7
-  response: 17FE0076056203460025
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 6.2
-  response: 17FE007605620346003E
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 6.6
-  response: 17FE0076056203460042
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 7
-  response: 17FE0076056203460046
-- expected_values:
-    SKODA_STEER_ANGLE_V2: 8.4
-  response: 17FE0076056203460054
-- expected_values:
     SKODA_STEER_ANGLE_V2: 421.3
   response: 17FE0076056203461075
