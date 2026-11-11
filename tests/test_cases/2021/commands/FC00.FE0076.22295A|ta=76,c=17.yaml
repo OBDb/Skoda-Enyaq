@@ -4,8 +4,11 @@ test_cases:
     SKODA_ENG_ODO: 60865
   response: 17FE00760662295A00EDC1
 - expected_values:
-    SKODA_ENG_ODO: 60929
-  response: 17FE00760662295A00EE01
+    SKODA_ENG_ODO: 61695
+  response: 17FE00760662295A00F0FF
+- expected_values:
+    SKODA_ENG_ODO: 61696
+  response: 17FE00760662295A00F100
 - expected_values:
     SKODA_ENG_ODO: 200000
   response: 17FE00760662295AFFFFFF
