@@ -4,5 +4,11 @@ test_cases:
     SKODA_HVAUX_I: 3.38
   response: 17FE0076056203600152
 - expected_values:
+    SKODA_HVAUX_I: 3.66
+  response: 17FE007605620360016E
+- expected_values:
+    SKODA_HVAUX_I: 4.16
+  response: 17FE00760562036001A0
+- expected_values:
     SKODA_HVAUX_I: 6.22
   response: 17FE007605620360026E

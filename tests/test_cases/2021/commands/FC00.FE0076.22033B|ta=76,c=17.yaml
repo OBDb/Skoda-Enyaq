@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SKODA_MOTOR_TRQ_REAR: 0
   response: 17FE00760562033B0000
+- expected_values:
+    SKODA_MOTOR_TRQ_REAR: 15
+  response: 17FE00760562033B000F
+- expected_values:
+    SKODA_MOTOR_TRQ_REAR: -40
+  response: 17FE00760562033BFFD8

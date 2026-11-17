@@ -9,6 +9,14 @@ test_cases:
     SKODA_CABIN_T_V2: 30
   response: 7B005622613012C
 - expected_values:
+    SKODA_C7_CABIN_T: 1.21094
+    SKODA_CABIN_T_V2: 31
+  response: 7B0056226130136
+- expected_values:
+    SKODA_C7_CABIN_T: 1.21484
+    SKODA_CABIN_T_V2: 31.1
+  response: 7B0056226130137
+- expected_values:
     SKODA_C7_CABIN_T: 1.22266
     SKODA_CABIN_T_V2: 31.3
   response: 7B0056226130139
