@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SKODA_MOTOR_TRQ_REQ: 0
   response: 17FE0076056229D40000
+- expected_values:
+    SKODA_MOTOR_TRQ_REQ: 15.1
+  response: 17FE0076056229D40097

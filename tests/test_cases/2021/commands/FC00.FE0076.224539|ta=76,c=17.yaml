@@ -4,8 +4,8 @@ test_cases:
     SKODA_ACCEL_V2: 0
   response: 17FE0076056245390000
 - expected_values:
-    SKODA_ACCEL_V2: -0.141
-  response: 17FE007605624539FF73
+    SKODA_ACCEL_V2: -0.236
+  response: 17FE007605624539FF14
 - expected_values:
     SKODA_ACCEL_V2: -0.002
   response: 17FE007605624539FFFE

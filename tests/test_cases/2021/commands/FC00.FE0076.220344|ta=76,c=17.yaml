@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SKODA_MOTOR_TRQ_RATED_FRONT: 0
   response: 17FE0076056203440000
+- expected_values:
+    SKODA_MOTOR_TRQ_RATED_FRONT: 15
+  response: 17FE007605620344001E
+- expected_values:
+    SKODA_MOTOR_TRQ_RATED_FRONT: -50
+  response: 17FE007605620344FF9C

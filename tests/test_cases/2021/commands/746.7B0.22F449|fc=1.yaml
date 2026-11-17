@@ -4,6 +4,9 @@ test_cases:
     SKODA_APP_D: 0
   response: 7B00462F44900
 - expected_values:
+    SKODA_APP_D: 0.39216
+  response: 7B00462F44901
+- expected_values:
     SKODA_APP_D: 1.17647
   response: 7B00462F44903
 - expected_values:
@@ -12,3 +15,6 @@ test_cases:
 - expected_values:
     SKODA_APP_D: 26.27451
   response: 7B00462F44943
+- expected_values:
+    SKODA_APP_D: 50.98039
+  response: 7B00462F44982

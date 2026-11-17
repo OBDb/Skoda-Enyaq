@@ -1,6 +1,14 @@
 command_id: 746.7B0.22263D|fc=1,din=03
 test_cases:
 - expected_values:
+    SKODA_CLIMATE_RR_DEFL_T: 42.66667
+    SKODA_PQ35_REAR_DEFL_T: 42.624
+  response: 7B00462263D80
+- expected_values:
+    SKODA_CLIMATE_RR_DEFL_T: 43.33333
+    SKODA_PQ35_REAR_DEFL_T: 43.29
+  response: 7B00462263D82
+- expected_values:
     SKODA_CLIMATE_RR_DEFL_T: 44.66667
     SKODA_PQ35_REAR_DEFL_T: 44.622
   response: 7B00462263D86

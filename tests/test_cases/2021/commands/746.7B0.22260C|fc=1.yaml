@@ -5,6 +5,10 @@ test_cases:
     SKODA_FL_DEFL_T: 43.956
   response: 7B00462260C84
 - expected_values:
+    SKODA_CLIMATE_FR_L_DEFL_T: 44.66667
+    SKODA_FL_DEFL_T: 44.622
+  response: 7B00462260C86
+- expected_values:
     SKODA_CLIMATE_FR_L_DEFL_T: 48.66667
     SKODA_FL_DEFL_T: 48.618
   response: 7B00462260C92
