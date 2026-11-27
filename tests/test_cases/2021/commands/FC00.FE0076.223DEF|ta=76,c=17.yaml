@@ -1,9 +1,9 @@
 command_id: FC00.FE0076.223DEF|ta=76,c=17
 test_cases:
 - expected_values:
-    SKODA_SOC_FC00: 9.5
-    SKODA_SOC_V3: 9.5
-  response: 17FE007605623DEF03B6
+    SKODA_SOC_FC00: 6
+    SKODA_SOC_V3: 6
+  response: 17FE007605623DEF0258
 - expected_values:
     SKODA_SOC_FC00: 43.5
     SKODA_SOC_V3: 43.5
