@@ -1,9 +1,9 @@
 command_id: 744.221DA7
 test_cases:
 - expected_values:
-    SKODA_CHG_OUT_V: 13
-    SKODA_OBC_HIGH_V_OUTPUT: 347.6
-  response: 7AE05621DA70D94
+    SKODA_CHG_OUT_V: 12
+    SKODA_OBC_HIGH_V_OUTPUT: 324.6
+  response: 7AE05621DA70CAE
 - expected_values:
     SKODA_CHG_OUT_V: 13
     SKODA_OBC_HIGH_V_OUTPUT: 353.2
